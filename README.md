@@ -9,9 +9,10 @@ A beautifully designed weather app built with Flutter framework that provides re
 - Relies on a trusted weather API to retrieve accurate and up-to-date weather information.
 
 ## Screenshots
-<img src="Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-07%20at%2020.52.26.png" alt="Screenshot 1" width="200"/>
-<img src="Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-07%20at%2020.52.31.png" alt="Screenshot 2" width="200"/>
-<img src="Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-07%20at%2020.52.44.png" alt="Screenshot 3" width="200"/>
-<img src="Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-07%20at%2020.52.48.png" alt="Screenshot 4" width="200"/>
+
+| Screenshot 1 | Screenshot 2 | Screenshot 3 | Screenshot 4 |
+|--------------|--------------|--------------|--------------|
+| <img src="Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-07%20at%2020.52.26.png" alt="Screenshot 1" width="200"/> | <img src="Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-07%20at%2020.52.31.png" alt="Screenshot 2" width="200"/> | <img src="Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-07%20at%2020.52.44.png" alt="Screenshot 3" width="200"/> | <img src="Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202023-05-07%20at%2020.52.48.png" alt="Screenshot 4" width="200"/> |
+
 
 
